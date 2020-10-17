@@ -1,0 +1,7 @@
+.vscode
+venv
+resume.txt
+__pycache__
+**/__pycache__
+data
+**.ipynb
